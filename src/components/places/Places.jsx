@@ -13,7 +13,7 @@ function Places() {
         <div className="row">
             <div className="col-md-6 mt-3">
                 <div className="places-left">
-                    <video src={ishavideos} loop autoPlay muted data-aos="zoom-in-down"></video>
+                    <video src={ishavideos} loop autoPlay data-aos="zoom-in-down"></video>
                 </div>
             </div>
             <div className="col-6 col-md-3 mt-3">
