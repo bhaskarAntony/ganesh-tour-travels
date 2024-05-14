@@ -3,7 +3,7 @@ import './style.css'
 
 function Registration() {
   return (
-    <div className='text-start bg-white container p-3  text-dark py-4 rounded-3 shadow'>
+    <div className='text-start bg-white container p-3  text-dark py-4 rounded-3 shadow' data-aos="fade-up">
         <h2 className="fs-3">Check Tour</h2>
         <div className="row">
             <div className="col-md-3">
