@@ -1,0 +1,11 @@
+header .nav-link{
+    font-size: 1.2rem;
+}
+header img{
+    width: 120px;
+}
+header{
+    z-index: 1020;
+    position: sticky;
+    top: 0;
+}

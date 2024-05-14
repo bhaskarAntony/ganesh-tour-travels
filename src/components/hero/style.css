@@ -1,0 +1,6 @@
+.hero{
+    min-height: 100vh;
+    background: linear-gradient(45deg, #4784e7af, #546ee1a8), url(https://e1.pxfuel.com/desktop-wallpaper/680/368/desktop-wallpaper-adiyogi-isha-foundation.jpg) no-repeat center;
+    background-size: cover;
+    color: #fff;
+}
