@@ -20,7 +20,7 @@ const data = [
 
 function Know() {
   return (
-    <div className='know container-fluid p-3 p-md-5'>
+    <div className='know container-fluid p-3 p-md-5' id="about">
         <h1 className="display-3 italic-heading text-white text-center">Are you Know about these Places?</h1>
         
         <div className="row mt-5">

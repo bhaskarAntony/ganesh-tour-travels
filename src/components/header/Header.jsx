@@ -17,23 +17,26 @@ function Header() {
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">places</a>
+          <a class="nav-link" href="#places">places</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact us</a>
+          <a class="nav-link" href="#offter">package</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About us</a>
+          <a class="nav-link" href="#contact">Contact us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Cars</a>
+          <a class="nav-link" href="#about">About places</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#cars">Cars</a>
         </li>
        
        
       </ul>
       <form class="d-flex">
        
-        <button class="btn btn-primary" type="submit">Visit to website</button>
+        <a href="https://sriganeshtourandtravels.com" class="btn btn-primary" type="submit" target="_blank">Visit to website</a>
       </form>
     </div>
   </div>

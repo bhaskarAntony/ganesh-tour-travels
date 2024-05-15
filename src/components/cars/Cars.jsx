@@ -6,19 +6,19 @@ const data = [
         title:'SEDAN',
         image:'https://www.pngitem.com/pimgs/m/175-1751064_indian-car-png-transparent-png.png',
         desc:'Offering 4+1 with AC',
-        price:'4699/- '
+        price:'4799/- '
     },
     {
         title:'Toyota SUV',
         image:'https://p.kindpng.com/picc/s/175-1751036_dollar-rent-a-car-mini-van-hd-png.png',
         desc:'Offering 7+1 with AC',
-        price:'6699/- '
+        price:'6399/- '
     }
 ]
 
 function Cars() {
   return (
-    <div className='cars p-3 p-md-5 container-fluid overflow-hidden'>
+    <div className='cars p-3 p-md-5 container-fluid overflow-hidden' id="cars">
         <h1 className="display-2 italic-heading mb-5 text-center">Available cars for this tour <span className="text-primary">Package</span> </h1>
         <div className="row">
             {

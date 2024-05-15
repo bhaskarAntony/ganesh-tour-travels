@@ -3,7 +3,7 @@ import './style.css'
 
 function COntact() {
   return (
-    <div className='contact p-3 p-md-5 text-white text-center'>
+    <div className='contact p-3 p-md-5 text-white text-center' id="contact">
         <h1 className="display-2 italic-heading mb-5">Contact us for more Offers and Travels Packages</h1>
             <div className="row">
                 <div className="col-md-4 mb-3">
