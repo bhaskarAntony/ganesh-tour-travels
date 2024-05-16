@@ -4,3 +4,50 @@
   font-family: "Dancing Script", cursive;
   font-weight: 600;
 }
+footer{
+  position: relative;
+}
+/* .banner-heading{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+} */
+
+.premium-footer {
+  padding: 50px;
+  color: white;
+  background-color: #000;
+  /* background-image: linear-gradient(to right, #ffa500, #ff4500);
+  -webkit-background-clip: text;
+  background-clip: text; */
+  border: 7px solid transparent;
+  border-image: linear-gradient(to right, #ffa500, #ff4500);
+  border-image-slice: 1;
+}
+
+.banner-heading, .g-text {
+  color: transparent;
+  background-image: linear-gradient(to right, #ffa500, #ff4500);
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* border: 2px solid transparent;
+  border-image: linear-gradient(to right, #ffa500, #ff4500);
+  border-image-slice: 1; */
+  display: inline;
+  font-weight: bold;
+}
+
+.my-btn {
+  background: linear-gradient(90deg, #ffa500, #ff4500); /* Gradient from orange to red */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.my-btn:hover {
+  background: linear-gradient(90deg, #ff4500, #ffa500); /* Gradient from red to orange on hover */
+}
