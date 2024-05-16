@@ -19,7 +19,7 @@ const data = [
 function Cars() {
   return (
     <div className='cars p-3 p-md-5 container-fluid overflow-hidden' id="cars">
-        <h1 className="display-2 italic-heading mb-5 text-center">Available cars for this tour <span className="text-primary">Package</span> </h1>
+        <h1 className="display-2 italic-heading mb-5 text-center">Available vehicles for the <span className="text-primary">Package</span> </h1>
         <div className="row">
             {
                 data.map((item, index)=>(

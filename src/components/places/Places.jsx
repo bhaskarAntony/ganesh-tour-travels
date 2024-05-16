@@ -9,7 +9,7 @@ function Places() {
       }, []);
   return (
     <section className='places container p-3 p-md-5' id="places">
-        <h1 className="display-2 fw-bold mb-5 text-center italic-heading" data-aos="fade-up">Offering Places in this <span className="text-primary">Package</span></h1>
+        <h1 className="display-2 fw-bold mb-5 text-center italic-heading" data-aos="fade-up">Places we are Offering for the <span className="text-primary">Package</span></h1>
         <div className="row">
             <div className="col-md-6 mt-3">
                 <div className="places-left">

@@ -4,7 +4,7 @@ import './style.css'
 function COntact() {
   return (
     <div className='contact p-3 p-md-5 text-white text-center' id="contact">
-        <h1 className="display-2 italic-heading mb-5">Contact us for more Offers and Travels Packages</h1>
+        <h1 className="display-2 italic-heading mb-5">Contact us for more Details and Avail Offers</h1>
             <div className="row">
                 <div className="col-md-4 mb-3">
                <div className="card p-3 h-100 shadow" data-aos="zoom-out-down">
