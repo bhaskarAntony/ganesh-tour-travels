@@ -14,7 +14,6 @@ footer{
 } */
 
 .premium-footer {
-  padding: 50px;
   color: white;
   background-color: #000;
   /* background-image: linear-gradient(to right, #ffa500, #ff4500);
@@ -46,6 +45,7 @@ footer{
   font-size: 16px;
   cursor: pointer;
   transition: background 0.3s;
+  text-decoration: none;
 }
 
 .my-btn:hover {
